@@ -31,13 +31,13 @@ $GOPATH - location where your go source lives. Conforms strictly to directory st
 func main() {
 
 	//variabls are set declaritively
-	var inputArg string = ""
+	var inputArg string
 
 	if len(os.Args) == 0 {
 		inputArg = os.Args[1]
 	} else {
 
-		inputArg = "Nothing was entered!"
+		inputArg = "This is ADM-DEV!"
 	}
 	fmt.Printf("Cheetos %s\n", inputArg)
 }
