@@ -15,7 +15,12 @@ unordered or ordered list
 supported)
 
 <!--
-[comment]: <> [//]: //:+1: :sparkles: :camel: :tada:
-[//]: //:rocket: :metal: :octocat: 
+:+1: 
+:sparkles: 
+:camel: 
+:tada:
+:rocket: 
+:metal: 
+:octocat: 
 --//>
 [comment]: # (This actually is the most platform independent comment)
