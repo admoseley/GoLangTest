@@ -1,6 +1,7 @@
 # GoLangTest
 Using Visual Studio code with GoLang to learn more about the application
 [GitHub](http://www.github.com)
+
 ## Testing Markdown ##
 *trying to figure it out*
 
@@ -14,21 +15,12 @@ supported
 unordered or ordered list
 supported)
 
-<!--
-:+1: 
-:sparkles: 
-:camel: 
-:tada:
-:rocket: 
-:metal: 
-:octocat: 
--->
-[comment]: # (This actually is the most platform independent comment)
+## Built With
 
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-# Project Title
-
-One Paragraph of project description goes here
 
 ## Getting Started
 
@@ -59,6 +51,25 @@ until finished
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
+
+### Contributors
+Adrian Moseley #admoseley (Slack)
+
+
+:+1: 
+:sparkles: 
+:camel: 
+:tada:
+:rocket: 
+:metal: 
+:octocat: 
+<!--
+[comment]: # (This actually is the most platform independent comment)
+
+
+# Project Title
+
+One Paragraph of project description goes here
 
 ## Running the tests
 
@@ -113,3 +124,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone who's code was used
 * Inspiration
 * etc
+-->
