@@ -17,9 +17,9 @@ supported)
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Vmware PowerCLI](https://www.powershellgallery.com/packages/VMware.PowerCLI/10.1.0.8403314)
+//* [Maven](https://maven.apache.org/) - Dependency Management
+//* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 
 ## Getting Started
