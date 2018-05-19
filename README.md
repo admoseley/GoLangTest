@@ -1,14 +1,15 @@
 # GoLangTest
+
 Using Visual Studio code with GoLang to learn more about the application
 [GitHub](http://www.github.com)
 
 ## Testing Markdown ##
+
 *trying to figure it out*
-
-
 - [x] this is a complete item
 - [ ] this is an incomplete item
-- [x] @mentions, #refs, [links](),
+- [x] @mentions, #refs, [links]()
+<!--
 **formatting**, and <del>tags</del>
 supported
 - [x] list syntax required (any
@@ -18,10 +19,9 @@ supported)
 ## Built With
 
 * [Vmware PowerCLI](https://www.powershellgallery.com/packages/VMware.PowerCLI/10.1.0.8403314)
-<!-- * [Maven](https://maven.apache.org/) - Dependency Management
+ * [Maven](https://maven.apache.org/) - Dependency Management
 //* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 -->
-
 
 ## Getting Started
 
@@ -56,17 +56,15 @@ End with an example of getting some data out of the system or using it for a lit
 ### Contributors
 Adrian Moseley #admoseley (Slack)
 
-
-:+1: 
-:sparkles: 
-:camel: 
+:+1:
+:sparkles:
+:camel:
 :tada:
-:rocket: 
-:metal: 
-:octocat: 
+:rocket:
+:metal:
+:octocat:
 <!--
 [comment]: # (This actually is the most platform independent comment)
-
 
 # Project Title
 
